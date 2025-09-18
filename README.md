@@ -52,7 +52,7 @@
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=komail003&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=komail003&theme=aura" height="150" alt="trophy graph" /> 
+  <img src="[https://github-profile-trophy.vercel.app/?username=komail003&theme=aura](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)" height="150" alt="trophy graph" /> 
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/komail003/komail003/output/pacman-contribution-graph-dark.svg"> 
