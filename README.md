@@ -61,9 +61,7 @@
 About Me
 🎓 Graduated from Lahore Garrison University
 
-💼 Team Lead at Meptics, building scalable web applications
-
-💻 2+ years of professional experience in Full Stack Development
+💻 2.5+ years of professional experience in Full Stack Development
 
 🌐 Passionate about open-source and community-driven projects
 
