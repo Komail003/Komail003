@@ -82,4 +82,7 @@ Other: Socket.IO (real-time communication), Docker Compose, MinIO object storage
 
 Reach Out
 Feel free to connect with me on any of the platforms above or open an issue/PR on my GitHub. Let's build something awesome together!
-![](https://komarev.com/ghpvc/?Komail003&color=green)
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=usamafaheemAhmed.usamafaheemAhmed&"  />
+</div>
